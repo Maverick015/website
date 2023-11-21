@@ -31,8 +31,9 @@ p {
 }
 
 .footer {
+  margin-top: 20px;
     background: rgb(56, 56, 56);
-    padding: 30px;
+    padding: 40px;
     text-align: center;
 }
 
